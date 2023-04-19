@@ -1,3 +1,7 @@
-const nam="mario";
+const greet=(nam)=>{
+    console.log(`hello, ${nam}`);
+}
 
-console.log(nam);
+greet('sai')
+greet('yoshi')
+ 
